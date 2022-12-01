@@ -18,6 +18,7 @@ En el siguiente cuaderno se elaboran los siguientes aspectos:
 Este proyecto se desarrolló junto al equipo de Big Data Tenerife con mucho cariño el 01 de diciembre de 2022. 
 
 ### Data is the new Bacon_ ❤️💻
-#### [Ibon Reinoso Isasi](https://ibonreinoso.com/), Director del Programa Nacional Big Data para Red.es (TheValley  y Barrabés) y fundador de [BigBayData.com](https://www.bigbaydata.com/)
+#### [Ibon Reinoso Isasi](https://ibonreinoso.com/), Director del Programa Nacional Big Data para Red.es (TheValley y Barrabés) 
+#### Fundador de [BigBayData.com](https://www.bigbaydata.com/)
 
 **Uso libre de contenido siempre que sea mencionado el autor.**
