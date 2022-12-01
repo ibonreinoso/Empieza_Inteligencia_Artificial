@@ -11,7 +11,7 @@ En el siguiente cuaderno se elaboran los siguientes aspectos:
 2. Mediana
 3. Media Aritmética
 
-### Medidas de Dispersion:
+### Medidas de Dispersión:
 1. Desviación Estándar
 2. Varianza
 
