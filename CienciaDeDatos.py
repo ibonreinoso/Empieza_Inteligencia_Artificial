@@ -10,7 +10,6 @@ BigBayData.com - https://www.bigbaydata.com/
 
 import random
 
-
 def seleccionarYActualizar(tematica,listaAlumnos):
     
     alumno1 = random.choice(listaAlumnos)
@@ -26,9 +25,6 @@ def asignarTemasAAlumnos(tematica, listaAlumnos, numeroGrupos):
 	    else:
 	    	print('TEMATICA:',tematica)
 	    	print(listaAlumnos)
-
-
-
 
 '''
 listaTematicas = [ 'Regresión Lineal', 'Regresión Logística', 'Naive Bayes', 'Supervisado: Knn', 'no Supervisado: KMeans' ]
@@ -89,8 +85,6 @@ def NormalizarDatos(data):
 		datosNormalizados.append(normalizedValue)
 	return datosNormalizados
 
-
-
 def EstadisticaDescriptiva(poblacion):
 	'''
 	A partir de una lista de datos (numérica) obtener 
@@ -116,8 +110,6 @@ def EstadisticaDescriptiva(poblacion):
 
 poblacion = [1,3,4,5,6,7,8,9,10]
 EstadisticaDescriptiva(poblacion)
-
-
 
 def ValidacionCruzada(p_test, datos):
 	'''
