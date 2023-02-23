@@ -1,4 +1,4 @@
-# Parte 1
+# Parte 1: Análisis Descriptivo de Variables 
 ## ExploracionDeDatos-EDA_Castellano
 A continuación se expone la librería y sus funcionalidades para que cualquiera pueda practicar los ejercicios de Estadística Descriptiva y Probabilidad.
 
