@@ -23,10 +23,10 @@ En el siguiente cuaderno se elaboran los siguientes aspectos:
   - [2]: precision_medio de las dos clases 
 
 ## MAE
-'''
-  A partir de un dataset con el target y el predictor con sus resultados
-  calculamos el error absoluto medio. De esta manera, podemos medir cuánto falla un modelo y hacer comparaciones entre dos modelos. 
-'''
+
+ **Mean Absolute Error:** A partir de un dataset con el target y el predictor con sus resultados
+  calculamos el Error Absoluto Medio. De esta manera, podemos medir cuánto falla un modelo y hacer comparaciones entre dos modelos. 
+
 
 ##### Ibon Reinoso Isasi || [BigBayData.com](https://www.bigbaydata.com/)
 #### Data is the new Bacon_ ❤️💻
